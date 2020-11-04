@@ -1,5 +1,5 @@
 # Общественная разработка законопроекта Кыргызской Республики "О люстрации" 
-Ведется на платформе [GitHub](https://ru.wikipedia.org/wiki/GitHub). Это всемирно известный сервис, он позволит обеспечить прозрачность и демократичность разработки. Файл законопроекта [LUSTRATION.md](LUSTRATION.md). Предложения к законопроекту расположены в ветках, смотрите предложения на странице https://github.com/publickyrgyzstan/projects/pulls.
+Ведется на платформе [GitHub](https://ru.wikipedia.org/wiki/GitHub). Это всемирно известный сервис, он позволит обеспечить прозрачность и демократичность разработки. Файл законопроекта [README.md](https://github.com/publickyrgyzstan/projects/blob/bakyt-patch-1/README.md). Предложения к законопроекту расположены в ветках, смотрите предложения на странице https://github.com/publickyrgyzstan/projects/pulls.
 
 
 
@@ -7,7 +7,7 @@
 <p align="center">
   <b>Для того чтобы открыть законопроект кликните</b> <br />
   :point_down: <br />
-  <a href="/LUSTRATION.md">LUSTRATION.md</a>
+  <a href="https://github.com/publickyrgyzstan/projects/blob/bakyt-patch-1/README.md">README.md</a>
 </p>
 
 
