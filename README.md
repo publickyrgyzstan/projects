@@ -5,11 +5,11 @@
 
 
 <p align="center">
-  <b>Для того чтобы открыть законопроект кликните</b> <br />
+  <b>В настоящее время разработка ведется в двух основных ветках. Для того чтобы открыть законопроект кликните на одну из двух ссылок</b> <br />
   :point_down: <br />
-  <a href="https://github.com/publickyrgyzstan/projects/blob/bakyt-patch-1/README.md">README.md</a>
+  <a href="https://github.com/publickyrgyzstan/projects/blob/bakyt-patch-1/README.md">bakyt-patch-1 (ветка инициативной группы)</a> <br />
+  <a href="https://github.com/publickyrgyzstan/projects/tree/LiraUsubalieva-1/README.md">LiraUsubalieva-1 (ветка Общественного объединения против коррупции "Народное движение: Люстрация")</a>
 </p>
-
 
 
 
