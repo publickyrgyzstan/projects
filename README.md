@@ -34,6 +34,8 @@
 
 [Здесь](https://docs.google.com/spreadsheets/d/19nCTKBgohB8NjIhrvq5-1fClaYHdUARJl_ujULut02Q/edit?usp=sharing) вы найдете актуальный список людей, которые занимаются разработкой законопроекта.
 
+Это изменение фиктивное, чтобы было где обсудить общие вопросы, которые не связаны с конкретным пулреквестом. Этот пулреквест не должен быть объединен, не делайте для него approve и merge.
+
 ## Ссылки
 [Facebook страница](https://www.facebook.com/LustrationKG)
 
